@@ -1,0 +1,1 @@
+Từ ngày 2/10 đến 9/10: Fix lỗi không gửi data uart được từ tiva C đến pi 4 và từ pi đến tiva C
